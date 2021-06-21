@@ -11,8 +11,10 @@ An Amazon S3 bucket is a public cloud storage resource available in Amazon Web S
 </dependency>
 ```
 or we could use spring-cloud-starter-aws.
-
+```xml
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-aws</artifactId>
 </dependency>
+```
+In this project, I have used the “spring-cloud-starter-aws”.
